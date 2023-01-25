@@ -74,7 +74,7 @@ Na Quarta etapa, iremos chamar a função com parâmetros e prencher a cor inter
 ![Screenshot_2023-01-25_19-09-07](https://user-images.githubusercontent.com/82295321/214703214-8c92a71a-e7d5-4463-9b8f-b56544683a76.png)
 
  
-Bom é isso, agora você sabe  como instalar a biblioteca, utilizar e liberar sua criatividade pra criar as mais diversas formas, abaixo, irei deixar alguns para você se aprofundar ainda mais na biblioteca ^^
+Bom é isso, agora que você sabe  já sabe como instalar e utilizar a biblioteca, basta liberar sua criatividade e com ela desenvolver  as mais diversas formas e desenhos. Abaixo deixarei alguns links para você se aprofundar ainda mais na utilização do PyCairo ^^
 
 https://pycairo.readthedocs.io/en/latest/
 
