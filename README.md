@@ -112,7 +112,7 @@ Uma diferença bem evidente entre os códigos é a sua complexidade, enquanto em
 
 Para gerar uma imagem svg em Haskell foi necessário criar uma função manualmente, que gerasse a string de uma imagem svg com as dimensões e parâmetros corretos da imagem. Já com Python, não foi necessário criar uma função, devido a utilização do PyCairo.
 
-Agora após termos abordado as diferenças vale ressaltar também as semelhanças, em ambos os códigos foi utilizado um comando para gerar números aleatórios para a definição do rgb, em Python foi o “random.randint” já em Haskell foi utilizado o “RamdomRs” que, no código, são usados para gerar números aleatórios de 0 a 255 para definir o rgb.
+Agora após termos abordado as diferenças vale ressaltar também as semelhanças, em ambos os códigos foi utilizado um comando para gerar números aleatórios para a definição do rgb, em Python foi o “np.random” já em Haskell foi utilizado o “RamdomRs” que, no código, são usados para gerar números aleatórios de 0 a 255 para definir o rgb.
 
 Para finalizar concluímos que por se tratarem de linguagens que seguem paradigmas diferentes os códigos acabaram gerando a mesma imagem de formas bem diferentes, mostrando que apesar de se tratar de uma mesma imagem em formato svg a forma de construí-la pode ser bem diferente dependendo do paradigma que a linguagem escolhida segue. 
 
