@@ -2,6 +2,8 @@
 
 ### Linguagens  utilizadas: Python e Haskell
 
+#### Alunos: Alejandro e Waliston 
+
 # Python  :
 
 ![Screenshot_2023-01-25_18-33-19](https://user-images.githubusercontent.com/82295321/214696149-430af9b0-01a0-4924-924f-0b5d7f38b9d4.png)
