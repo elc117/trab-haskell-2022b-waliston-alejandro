@@ -92,10 +92,15 @@ https://acervolima.com/pycairo-desenho-de-diferentes-tipos-de-juncoes-de-linha/
 
 Para executar o programa, usaremos o código “Main.hs”. Para executar o programa devem ser seguidos alguns passos.
 
-1. Deve-se abrir um console no local onde o arquivo está salvo e digitar o comando “ghci Main.hs”
-2. Digitar “main”, para chamr a função principal que irá gerar o resultado.
+1. Deve-se abrir um Shell no local onde o arquivo está salvo
+2. Digitar o comando “ghci Main.hs”
+3. Apertar "Enter"
+4. Digitar “main”, para chamar a função principal que irá gerar o resultado desejado
+5. Apertar "Enter"
 
 Após o programa ser executado uma imagem chamada “output.sgv” será gerada e ela se parecerá com a imagem abaixo:
+
+![output](https://user-images.githubusercontent.com/104328707/215327993-a6eed798-ed8a-4af1-a446-a8174531dfae.svg)
 
 ## Comparação
 
