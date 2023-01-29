@@ -1,10 +1,9 @@
 import math
 import random
 import cairo
+import numpy as np
 
-color1 = [0, 255, 128, 255, 255, 0, 204, 51, 204, 153, 51, 250, 180, 20, 0]
-color2 = [0, 0, 0, 153, 204, 51, 153, 102, 153, 51, 51, 150, 170, 180, 190, 250, 260]
-color3 = [0, 0, 0, 0, 0, 0, 255, 255, 255, 0, 153, 15, 65, 48, 26, 150, 102, 202, 200, 300]
+color = list(np.random.choice(range(256), size=3))
 
 with cairo.SVGSurface("example.svg", 800, 800) as surface:
     f1 = cairo.Context(surface)
@@ -18,7 +17,7 @@ with cairo.SVGSurface("example.svg", 800, 800) as surface:
 
 
     # Sub-path 1
-    f1.set_source_rgb(random.choice(color1), random.choice(color2), random.choice(color3))
+    f1.set_source_rgb(color)
 
     f1.rotate(31 * math.pi / 180)
 
@@ -32,7 +31,7 @@ with cairo.SVGSurface("example.svg", 800, 800) as surface:
     f1.close_path()
 
     # Sub-path 2
-    f2.set_source_rgb(random.choice(color1), random.choice(color2), random.choice(color3))
+    f2.set_source_rgb(color)
 
     f2.rotate(31 * math.pi / 180)
     f2.scale(0.5, 0.5)
@@ -45,7 +44,7 @@ with cairo.SVGSurface("example.svg", 800, 800) as surface:
     f2.close_path()
 
     # Sub-path 3
-    f3.set_source_rgb(random.choice(color1), random.choice(color2), random.choice(color3))
+    f3.set_source_rgb(color)
 
     f3.rotate(31 * math.pi / 180)
     f3.scale(0.5, 0.5)
@@ -57,7 +56,7 @@ with cairo.SVGSurface("example.svg", 800, 800) as surface:
     f3.close_path()
 
     # Sub-path 4
-    f4.set_source_rgb(random.choice(color1), random.choice(color2), random.choice(color3))
+    f4.set_source_rgb(color)
 
     f4.rotate(-28 * math.pi / 180)
     f4.scale(0.5, 0.5)
@@ -70,7 +69,7 @@ with cairo.SVGSurface("example.svg", 800, 800) as surface:
     f4.close_path()
 
     # Sub-path 5
-    f5.set_source_rgb(random.choice(color1), random.choice(color2), random.choice(color3))
+    f5.set_source_rgb(color)
 
     f5.rotate(-28 * math.pi / 180)
     f5.scale(0.5, 0.5)
@@ -83,7 +82,7 @@ with cairo.SVGSurface("example.svg", 800, 800) as surface:
     f5.close_path()
 
     # Sub-path 6
-    f6.set_source_rgb(random.choice(color1), random.choice(color2), random.choice(color3))
+    f6.set_source_rgb(color)
 
     f6.rotate(-28 * math.pi / 180)
     f6.scale(1, 1)
@@ -96,7 +95,7 @@ with cairo.SVGSurface("example.svg", 800, 800) as surface:
     f6.close_path()
 
     # Sub-path 7
-    f7.set_source_rgb(random.choice(color1), random.choice(color2), random.choice(color3))
+    f7.set_source_rgb(color)
 
     f7.rotate(-28 * math.pi / 180)
     f7.scale(1, 1)
@@ -109,7 +108,7 @@ with cairo.SVGSurface("example.svg", 800, 800) as surface:
     f7.close_path()
 
     # Sub-path 8
-    f8.set_source_rgb(random.choice(color1), random.choice(color2), random.choice(color3))
+    f8.set_source_rgb(color)
 
     f8.rotate(-29 * math.pi / 180)
     f8.scale(1, 1)
