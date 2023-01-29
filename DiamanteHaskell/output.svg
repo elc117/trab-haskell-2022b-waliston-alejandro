@@ -1,0 +1,15 @@
+<svg width='500' height='500' xmlns='http://www.w3.org/2000/svg'>
+<rect x='0' y='0' width='500' height='500' style='black' />
+<polygon points='100,150 250,400 400,150' style='fill:rgb(74,2,99);stroke:white;stroke-width:5'/>
+<polygon points='160,150 250,400 340,150' style='fill:rgb(103,201,113);stroke:white;stroke-width:5'/>
+<polygon points='220,150 250,400 280,150' style='fill:rgb(105,91,185);stroke:white;stroke-width:5'/>
+<polygon points='100,150 130,100 160,150' style='fill:rgb(220,225,177);stroke:white;stroke-width:5'/>
+<polygon points='130,100 160,150 190,100' style='fill:rgb(126,178,44);stroke:white;stroke-width:5'/>
+<polygon points='160,150 190,100 220,150' style='fill:rgb(248,1,11);stroke:white;stroke-width:5'/>
+<polygon points='190,100 220,150 250,100' style='fill:rgb(219,253,230);stroke:white;stroke-width:5'/>
+<polygon points='220,150 250,100 280,150' style='fill:rgb(63,23,108);stroke:white;stroke-width:5'/>
+<polygon points='250,100 280,150 310,100' style='fill:rgb(32,5,34);stroke:white;stroke-width:5'/>
+<polygon points='280,150 310,100 340,150' style='fill:rgb(202,11,120);stroke:white;stroke-width:5'/>
+<polygon points='310,100 340,150 370,100' style='fill:rgb(131,132,83);stroke:white;stroke-width:5'/>
+<polygon points='340,150 370,100 400,150' style='fill:rgb(73,72,246);stroke:white;stroke-width:5'/>
+</svg>
