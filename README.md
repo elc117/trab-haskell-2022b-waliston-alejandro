@@ -86,6 +86,30 @@ https://github.com/Hansimov/pycairo-examples
 
 https://acervolima.com/pycairo-desenho-de-diferentes-tipos-de-juncoes-de-linha/
 
+# Haskell: 
+
+Para executar o programa, usaremos o código “Main.hs”. Para executar o programa devem ser seguidos alguns passos.
+
+1. Deve-se abrir um console no local onde o arquivo está salvo e digitar o comando “ghci Main.hs”
+2. Digitar “Main”, para chamr a função principal que irá gerar o resultado.
+
+Após o programa ser executado uma imagem chamada “output.sgv” será gerada e ela se parecerá com a imagem abaixo:
+
+## Comparação
+
+Ambas os programas apesar de gerarem uma imagem similar são feitos de forma bem diferentes pois possuem várias diferenças que valem apena ser destacadas.
+Primeiramente, as linguagens utilizadas para a criação dos códigos, Python e Haskell, possuem a diferença de Python ser uma linguagem imperativa, um tipo de linguagem que descreve as ações que devem ser feitas, enquanto Hakell é uma linguagem declarativa, sendo uma linguagem que no que o programa deve realizar sem especificar como o programa deve alcançar o resultado desejado.
+
+Além disso as duas liguagens seguem paradgmas diferentes enquanto Python é uma linguagem multiparadigma, podendo ser orientado a objetos, imperativo, procedural e funcional, já a linguagem Haskell é uma linguagem puramente funcional, oque faz com que seu códigos se tornem diferentes.
+
+Uma diferença bem evidente entre os códigos é a sua complexidade, enquanto em Python o programa se  torna bem mais simples, com todo o código na “Main”, em Haskell são necessárias várias funções distintas para obter o mesmo resultado.
+
+Para gerar uma imagem svg em Haskell foi necessário criar uma função manualmente, que gerasse a string de uma imagem svg com as dimensões e parametros corretos da imagem já com Python, não foi necessario criar uma função, devido a utilização do PyCairo.
+
+Agora após termos abordado as diferenças vale ressaltar também as semelhasnças, em ambos os códigos foi utilizado um comando para gerar números aleatores para a definição do rgb, em Python foi o “random.randint” já em Haskell foi utilizado o “RamdomRs” que, no código, são usados para gerar números aleatórios de 0 á 255 para definir o rgb.
+
+Para finalizar concluimos que por se tratarem de linguagens que seguem paradigmas diferentes os códigos acabaram gerando a mesma imagem de forma bem diferente, mostrando que apesar de se tratar de uma mesma imagem em formato svg a forma de costrui-la pode ser bem diferente dependendo do paradigma que a linguagem escolhida seguir. 
+
 
 
 
