@@ -122,6 +122,12 @@ Para finalizar concluímos que por se tratarem de linguagens que seguem paradigm
 
 * https://www.w3schools.com/graphics/svg_intro.asp
 
+* https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell01/README.md#1
+
+* https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell02/README.md#1
+
 * Dúvidas em sala de aula com a profesora.
 
 * Sorteador de números mostrado em aula.
+
+* https://pycairo.readthedocs.io/en/latest/index.html
