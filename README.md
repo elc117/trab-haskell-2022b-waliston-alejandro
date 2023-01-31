@@ -116,6 +116,12 @@ Agora após termos abordado as diferenças vale ressaltar também as semelhança
 
 Para finalizar concluímos que por se tratarem de linguagens que seguem paradigmas diferentes os códigos acabaram gerando a mesma imagem de formas bem diferentes, mostrando que apesar de se tratar de uma mesma imagem em formato svg a forma de construí-la pode ser bem diferente dependendo do paradigma que a linguagem escolhida segue. 
 
+## Créditos para Sites/Pessoas que Ajudaram
 
+* https://www.w3schools.com/graphics/svg_polygon.asp
 
+* https://www.w3schools.com/graphics/svg_intro.asp
 
+* Dúvidas em sala de aula com a profesora.
+
+* Sorteador de números mostrado em aula.
