@@ -126,7 +126,7 @@ Para finalizar concluímos que por se tratarem de linguagens que seguem paradigm
 
 * https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell02/README.md#1
 
-* Dúvidas em sala de aula com a profesora.
+* Dúvidas, em sala de aula, com a profesora Andrea.
 
 * Sorteador de números mostrado em aula.
 
